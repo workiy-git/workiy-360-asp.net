@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Workiy_360.DataLayer</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Workiy-360.EntityFramework\Workiy-360.EntityFramework.csproj" />
+    <ProjectReference Include="..\Workiy-360.Models\Workiy-360.Models.csproj" />
+  </ItemGroup>
+
+</Project>

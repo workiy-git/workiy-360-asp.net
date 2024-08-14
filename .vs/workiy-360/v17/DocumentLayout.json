@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Pictures\\workiy-360\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.api\\controllers\\employeeinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\controllers\\employeeinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.api.businesslogic\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|solutionrelative:workiy-360.api.businesslogic\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.api.businesslogic\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|solutionrelative:workiy-360.api.businesslogic\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.datalayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|solutionrelative:workiy-360.datalayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.datalayer\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|solutionrelative:workiy-360.datalayer\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|solutionrelative:workiy-360.datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7BE694-1E61-4D61-B739-AC3DED3A49EE}|Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.entityframework\\context\\workiy360dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7BE694-1E61-4D61-B739-AC3DED3A49EE}|Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj|solutionrelative:workiy-360.entityframework\\context\\workiy360dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.models\\models\\employeeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.models\\models\\employeecontactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeecontactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.api\\workiy-360.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\workiy-360.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.api.businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|solutionrelative:workiy-360.api.businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.api\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.datalayer\\workiy-360.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|solutionrelative:workiy-360.datalayer\\workiy-360.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.models\\models\\employeeaddressdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeeaddressdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.models\\models\\employeenationalitydocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeenationalitydocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.models\\models\\employeeexperiencedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeeexperiencedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.models\\models\\employeeeducationaldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeeeducationaldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7BE694-1E61-4D61-B739-AC3DED3A49EE}|Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj|c:\\users\\dell\\pictures\\workiy-360\\workiy-360.entityframework\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7BE694-1E61-4D61-B739-AC3DED3A49EE}|Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj|solutionrelative:workiy-360.entityframework\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs*",
+              "RelativeToolTip": "Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs*",
+              "ViewState": "AQIAAGQAAAAAAAAAAADwv48AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:24:19.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:27:42.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\Controllers\\EmployeeInfoController.cs*",
+              "RelativeToolTip": "Workiy-360.Api\\Controllers\\EmployeeInfoController.cs*",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwv0oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:22:32.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs*",
+              "RelativeToolTip": "Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:26:31.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Workiy-360.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Workiy-360.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T13:44:16.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\Program.cs*",
+              "RelativeToolTip": "Workiy-360.Api\\Program.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvx4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:44:11.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Workiy-360.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\appsettings.json",
+              "RelativeToolTip": "Workiy-360.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T13:50:50.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.DataLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "Workiy-360.DataLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.DataLayer\\Class1.cs",
+              "RelativeToolTip": "Workiy-360.DataLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:39:26.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:28:44.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Workiy360DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.EntityFramework\\Context\\Workiy360DbContext.cs",
+              "RelativeDocumentMoniker": "Workiy-360.EntityFramework\\Context\\Workiy360DbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.EntityFramework\\Context\\Workiy360DbContext.cs",
+              "RelativeToolTip": "Workiy-360.EntityFramework\\Context\\Workiy360DbContext.cs",
+              "ViewState": "AQIAABgAAAAAJjMzMzMhwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:13:49.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeInformation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeInformation.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeInformation.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeInformation.cs",
+              "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:03:30.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeContactDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeContactDetail.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeContactDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeContactDetail.cs",
+              "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeContactDetail.cs",
+              "ViewState": "AQIAAAoAAACALjMzMzMLwBMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:04:04.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api.BusinessLogic\\Class1.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Api.BusinessLogic\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api.BusinessLogic\\Class1.cs",
+              "RelativeToolTip": "Workiy-360.Api.BusinessLogic\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:38:46.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Workiy-360.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\Workiy-360.Api.csproj",
+              "RelativeDocumentMoniker": "Workiy-360.Api\\Workiy-360.Api.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\Workiy-360.Api.csproj",
+              "RelativeToolTip": "Workiy-360.Api\\Workiy-360.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T15:44:23.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Workiy-360.DataLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
+              "RelativeDocumentMoniker": "Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
+              "RelativeToolTip": "Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T15:51:42.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Api\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Workiy-360.Api\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:57:06.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "Workiy-360.Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:10:38.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeAddressDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeAddressDetail.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeAddressDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeAddressDetail.cs",
+              "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeAddressDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:04:42.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeNationalityDocument.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeNationalityDocument.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeNationalityDocument.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeNationalityDocument.cs",
+              "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeNationalityDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:04:33.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeExperienceDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeExperienceDetail.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeExperienceDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeExperienceDetail.cs",
+              "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeExperienceDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:04:19.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeEducationalDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeEducationalDetail.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeEducationalDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Models\\EmployeeEducationalDetail.cs",
+              "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeEducationalDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:04:11.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Class1.cs",
+              "RelativeToolTip": "Workiy-360.Models\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:40:50.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.EntityFramework\\Class1.cs",
+              "RelativeDocumentMoniker": "Workiy-360.EntityFramework\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.EntityFramework\\Class1.cs",
+              "RelativeToolTip": "Workiy-360.EntityFramework\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:40:11.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

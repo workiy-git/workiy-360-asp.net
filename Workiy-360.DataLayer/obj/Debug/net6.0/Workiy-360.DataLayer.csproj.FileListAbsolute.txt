@@ -1,0 +1,17 @@
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.deps.json
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.dll
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.pdb
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.Models.dll
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.Models.pdb
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.AssemblyInfo.cs
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-3.E150AC4E.Up2Date
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.dll
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\refint\Workiy-360.DataLayer.dll
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.pdb
+C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\ref\Workiy-360.DataLayer.dll

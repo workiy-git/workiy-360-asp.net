@@ -1,0 +1,12 @@
+﻿using System.Threading.Tasks;
+using Workiy_360.EntityFramework;
+using Workiy_360.Models;
+
+namespace Workiy_360.Api.BusinessLogic.Interfaces
+{
+    public interface IEmployeeService
+    {
+        Task AddOrUpdateAsync(EmployeeInformation employee);
+        Task<EmployeeInformation> GetByPhoneNumberAsync(string phoneNumber);
+    }
+}

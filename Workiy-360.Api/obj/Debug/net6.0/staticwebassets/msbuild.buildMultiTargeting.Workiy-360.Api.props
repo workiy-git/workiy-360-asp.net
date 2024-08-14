@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Workiy-360.Api.props" />
+</Project>
