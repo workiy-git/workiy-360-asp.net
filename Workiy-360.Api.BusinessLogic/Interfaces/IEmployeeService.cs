@@ -6,7 +6,7 @@ namespace Workiy_360.Api.BusinessLogic.Interfaces
 {
     public interface IEmployeeService
     {
-        Task AddOrUpdateAsync(EmployeeInformation employee);
+        Task<string> AddOrUpdateAsync(EmployeeInformation employee, int flag);
         Task<EmployeeInformation> GetByPhoneNumberAsync(string phoneNumber);
     }
 }

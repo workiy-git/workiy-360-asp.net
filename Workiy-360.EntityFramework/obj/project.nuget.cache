@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KTxuWjfLrBM=",
+  "dgSpecHash": "hyUVVs4P3r4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj",
+  "projectFilePath": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",

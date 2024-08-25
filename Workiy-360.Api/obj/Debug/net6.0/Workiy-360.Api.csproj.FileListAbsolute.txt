@@ -1,78 +1,399 @@
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.exe
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\MySqlConnector.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\System.Text.Json.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.BusinessLogic.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.DataLayer.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Models.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\appsettings.json
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.deps.json
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.runtimeconfig.json
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Google.Protobuf.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Humanizer.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\MySql.Data.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\ZstdSharp.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.BusinessLogic.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.DataLayer.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Models.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.csproj.AssemblyReference.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.AssemblyInfoInputs.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.AssemblyInfo.cs
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.csproj.CoreCompileInputs.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.Workiy-360.Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Workiy-360.Api.props
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Workiy-360.Api.props
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Workiy-360.Api.props
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\scopedcss\bundle\Workiy-360.Api.styles.css
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\Workiy-3.619F9CB0.Up2Date
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\refint\Workiy-360.Api.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.genruntimeconfig.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.Api\obj\Debug\net6.0\ref\Workiy-360.Api.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.exe
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.BusinessLogic.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.DataLayer.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.EntityFramework.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Models.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/appsettings.json
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.deps.json
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.runtimeconfig.json
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Humanizer.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/MySql.EntityFrameworkCore.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/System.Text.Encoding.CodePages.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.BusinessLogic.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.DataLayer.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.EntityFramework.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Models.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.csproj.AssemblyReference.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.AssemblyInfoInputs.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.AssemblyInfo.cs
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.csproj.CoreCompileInputs.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/staticwebassets/msbuild.Workiy-360.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/staticwebassets/msbuild.build.Workiy-360.Api.props
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Workiy-360.Api.props
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Workiy-360.Api.props
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/scopedcss/bundle/Workiy-360.Api.styles.css
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/Workiy-3.619F9CB0.Up2Date
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/refint/Workiy-360.Api.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.genruntimeconfig.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.Api/obj/Debug/net6.0/ref/Workiy-360.Api.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/appsetting.json
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/appsettings.Development.json
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/appsettings.json
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.deps.json
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.runtimeconfig.json
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/web.config
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.pdb
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Google.Protobuf.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Humanizer.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/MySql.Data.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/MySql.EntityFrameworkCore.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/MySqlConnector.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Newtonsoft.Json.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/System.IO.Pipelines.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/System.Security.Permissions.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/System.Text.Encoding.CodePages.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/System.Text.Json.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/System.Windows.Extensions.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/ZstdSharp.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.BusinessLogic.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.DataLayer.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.EntityFramework.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Models.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Api.BusinessLogic.pdb
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.DataLayer.pdb
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.EntityFramework.pdb
+/var/www/workiy-360-asp.net/Workiy-360.Api/bin/Debug/net6.0/Workiy-360.Models.pdb
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.csproj.AssemblyReference.cache
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.AssemblyInfoInputs.cache
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.AssemblyInfo.cs
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.csproj.CoreCompileInputs.cache
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cs
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cache
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/staticwebassets.build.json
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/staticwebassets.development.json
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/scopedcss/bundle/Workiy-360.Api.styles.css
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.csproj.CopyComplete
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/refint/Workiy-360.Api.dll
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.pdb
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/Workiy-360.Api.genruntimeconfig.cache
+/var/www/workiy-360-asp.net/Workiy-360.Api/obj/Debug/net6.0/ref/Workiy-360.Api.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\web.config
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\appsetting.json
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\appsettings.json
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.deps.json
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.runtimeconfig.json
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.exe
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.pdb
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Humanizer.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\MySql.Data.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\MySqlConnector.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\ZstdSharp.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.BusinessLogic.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.DataLayer.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Models.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.BusinessLogic.pdb
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.DataLayer.pdb
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Models.pdb
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.csproj.AssemblyReference.cache
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.AssemblyInfoInputs.cache
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.AssemblyInfo.cs
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.csproj.CoreCompileInputs.cache
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.Workiy-360.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Workiy-360.Api.props
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Workiy-360.Api.props
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Workiy-360.Api.props
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\scopedcss\bundle\Workiy-360.Api.styles.css
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\Workiy-3.619F9CB0.Up2Date
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\refint\Workiy-360.Api.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.pdb
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.genruntimeconfig.cache
+D:\new\workiy-360-asp.net\Workiy-360.Api\obj\Debug\net6.0\ref\Workiy-360.Api.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\new\workiy-360-asp.net\Workiy-360.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\web.config
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\appsetting.json
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\appsettings.json
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.deps.json
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.runtimeconfig.json
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.exe
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Humanizer.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\MySql.Data.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\MySqlConnector.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\ZstdSharp.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.BusinessLogic.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.DataLayer.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Models.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.BusinessLogic.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.DataLayer.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Models.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.csproj.AssemblyReference.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.AssemblyInfoInputs.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.AssemblyInfo.cs
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.csproj.CoreCompileInputs.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.Workiy-360.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Workiy-360.Api.props
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Workiy-360.Api.props
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Workiy-360.Api.props
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\scopedcss\bundle\Workiy-360.Api.styles.css
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-3.619F9CB0.Up2Date
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\refint\Workiy-360.Api.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.genruntimeconfig.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\ref\Workiy-360.Api.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\web.config
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\appsetting.json
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\appsettings.json
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.deps.json
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.runtimeconfig.json
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.exe
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Humanizer.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\MySql.Data.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\MySqlConnector.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\ZstdSharp.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.BusinessLogic.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.DataLayer.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Models.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Api.BusinessLogic.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.DataLayer.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\bin\Debug\net6.0\Workiy-360.Models.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.csproj.AssemblyReference.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.AssemblyInfoInputs.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.AssemblyInfo.cs
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.csproj.CoreCompileInputs.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.Workiy-360.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Workiy-360.Api.props
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Workiy-360.Api.props
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Workiy-360.Api.props
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\scopedcss\bundle\Workiy-360.Api.styles.css
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-3.619F9CB0.Up2Date
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\refint\Workiy-360.Api.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\Workiy-360.Api.genruntimeconfig.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Api\obj\Debug\net6.0\ref\Workiy-360.Api.dll

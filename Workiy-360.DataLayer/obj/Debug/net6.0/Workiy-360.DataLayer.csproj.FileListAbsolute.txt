@@ -1,17 +1,85 @@
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.deps.json
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.Models.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.Models.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.csproj.AssemblyReference.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.AssemblyInfoInputs.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.AssemblyInfo.cs
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.csproj.CoreCompileInputs.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-3.E150AC4E.Up2Date
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\refint\Workiy-360.DataLayer.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.DataLayer\obj\Debug\net6.0\ref\Workiy-360.DataLayer.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.DataLayer.deps.json
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.DataLayer.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.DataLayer.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.EntityFramework.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.Models.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.EntityFramework.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.Models.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.csproj.AssemblyReference.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.AssemblyInfoInputs.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.AssemblyInfo.cs
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.csproj.CoreCompileInputs.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-3.E150AC4E.Up2Date
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/obj/Debug/net6.0/refint/Workiy-360.DataLayer.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.DataLayer/obj/Debug/net6.0/ref/Workiy-360.DataLayer.dll
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.DataLayer.deps.json
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.DataLayer.dll
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.DataLayer.pdb
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.EntityFramework.dll
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.Models.dll
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.EntityFramework.pdb
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Debug/net6.0/Workiy-360.Models.pdb
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.csproj.AssemblyReference.cache
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.AssemblyInfoInputs.cache
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.AssemblyInfo.cs
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.csproj.CoreCompileInputs.cache
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.csproj.CopyComplete
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.dll
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Debug/net6.0/refint/Workiy-360.DataLayer.dll
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Debug/net6.0/Workiy-360.DataLayer.pdb
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Debug/net6.0/ref/Workiy-360.DataLayer.dll
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.deps.json
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.dll
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.pdb
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.Models.dll
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.Models.pdb
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.csproj.AssemblyReference.cache
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.AssemblyInfoInputs.cache
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.AssemblyInfo.cs
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.csproj.CoreCompileInputs.cache
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-3.E150AC4E.Up2Date
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.dll
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\obj\Debug\net6.0\refint\Workiy-360.DataLayer.dll
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.pdb
+D:\new\workiy-360-asp.net\Workiy-360.DataLayer\obj\Debug\net6.0\ref\Workiy-360.DataLayer.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.deps.json
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.Models.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.Models.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.csproj.AssemblyReference.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.AssemblyInfoInputs.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.AssemblyInfo.cs
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.csproj.CoreCompileInputs.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-3.E150AC4E.Up2Date
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\refint\Workiy-360.DataLayer.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\ref\Workiy-360.DataLayer.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.deps.json
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.DataLayer.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.Models.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\bin\Debug\net6.0\Workiy-360.Models.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.csproj.AssemblyReference.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.AssemblyInfoInputs.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.AssemblyInfo.cs
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.csproj.CoreCompileInputs.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-3.E150AC4E.Up2Date
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\refint\Workiy-360.DataLayer.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\Workiy-360.DataLayer.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.DataLayer\obj\Debug\net6.0\ref\Workiy-360.DataLayer.dll

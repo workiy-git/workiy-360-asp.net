@@ -1,0 +1,12 @@
+/var/www/workiy-360-asp.net/Workiy-360.Models/bin/Release/net6.0/Workiy-360.Models.deps.json
+/var/www/workiy-360-asp.net/Workiy-360.Models/bin/Release/net6.0/Workiy-360.Models.dll
+/var/www/workiy-360-asp.net/Workiy-360.Models/bin/Release/net6.0/Workiy-360.Models.pdb
+/var/www/workiy-360-asp.net/Workiy-360.Models/obj/Release/net6.0/Workiy-360.Models.csproj.AssemblyReference.cache
+/var/www/workiy-360-asp.net/Workiy-360.Models/obj/Release/net6.0/Workiy-360.Models.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/workiy-360-asp.net/Workiy-360.Models/obj/Release/net6.0/Workiy-360.Models.AssemblyInfoInputs.cache
+/var/www/workiy-360-asp.net/Workiy-360.Models/obj/Release/net6.0/Workiy-360.Models.AssemblyInfo.cs
+/var/www/workiy-360-asp.net/Workiy-360.Models/obj/Release/net6.0/Workiy-360.Models.csproj.CoreCompileInputs.cache
+/var/www/workiy-360-asp.net/Workiy-360.Models/obj/Release/net6.0/Workiy-360.Models.dll
+/var/www/workiy-360-asp.net/Workiy-360.Models/obj/Release/net6.0/refint/Workiy-360.Models.dll
+/var/www/workiy-360-asp.net/Workiy-360.Models/obj/Release/net6.0/Workiy-360.Models.pdb
+/var/www/workiy-360-asp.net/Workiy-360.Models/obj/Release/net6.0/ref/Workiy-360.Models.dll

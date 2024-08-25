@@ -758,11 +758,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
+      "projectUniqueName": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
       "projectName": "Workiy-360.DataLayer",
-      "projectPath": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
+      "projectPath": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.DataLayer\\obj\\",
+      "outputPath": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -784,11 +784,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj"
+            "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj": {
+              "projectPath": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj"
             },
-            "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Workiy-360.Models.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Pictures\\workiy-360\\Workiy-360.Models\\Workiy-360.Models.csproj"
+            "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.Models\\Workiy-360.Models.csproj": {
+              "projectPath": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.Models\\Workiy-360.Models.csproj"
             }
           }
         }

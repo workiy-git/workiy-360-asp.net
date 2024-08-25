@@ -1,17 +1,85 @@
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.deps.json
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.runtimeconfig.json
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.Models.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.Models.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.csproj.AssemblyReference.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.AssemblyInfoInputs.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.AssemblyInfo.cs
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.csproj.CoreCompileInputs.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-3.54832969.Up2Date
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\obj\Debug\net6.0\refint\Workiy-360.EntityFramework.dll
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.pdb
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.genruntimeconfig.cache
-C:\Users\DELL\Pictures\workiy-360\Workiy-360.EntityFramework\obj\Debug\net6.0\ref\Workiy-360.EntityFramework.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.EntityFramework.deps.json
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.EntityFramework.runtimeconfig.json
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.EntityFramework.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.EntityFramework.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.Models.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.Models.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.csproj.AssemblyReference.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.AssemblyInfoInputs.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.AssemblyInfo.cs
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.csproj.CoreCompileInputs.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-3.54832969.Up2Date
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/obj/Debug/net6.0/refint/Workiy-360.EntityFramework.dll
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.pdb
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.genruntimeconfig.cache
+C:/Users/DELL/Pictures/workiy-360/Workiy-360.EntityFramework/obj/Debug/net6.0/ref/Workiy-360.EntityFramework.dll
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.EntityFramework.deps.json
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.EntityFramework.runtimeconfig.json
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.EntityFramework.dll
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.EntityFramework.pdb
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.Models.dll
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/bin/Debug/net6.0/Workiy-360.Models.pdb
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.csproj.AssemblyReference.cache
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.AssemblyInfoInputs.cache
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.AssemblyInfo.cs
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.csproj.CoreCompileInputs.cache
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.csproj.CopyComplete
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.dll
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/obj/Debug/net6.0/refint/Workiy-360.EntityFramework.dll
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.pdb
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/obj/Debug/net6.0/Workiy-360.EntityFramework.genruntimeconfig.cache
+/var/www/workiy-360-asp.net/Workiy-360.EntityFramework/obj/Debug/net6.0/ref/Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.deps.json
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.runtimeconfig.json
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.Models.dll
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.Models.pdb
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.csproj.AssemblyReference.cache
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.AssemblyInfoInputs.cache
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.AssemblyInfo.cs
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.csproj.CoreCompileInputs.cache
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-3.54832969.Up2Date
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\obj\Debug\net6.0\refint\Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.genruntimeconfig.cache
+D:\new\workiy-360-asp.net\Workiy-360.EntityFramework\obj\Debug\net6.0\ref\Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.deps.json
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.runtimeconfig.json
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.Models.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.Models.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.csproj.AssemblyReference.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.AssemblyInfoInputs.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.AssemblyInfo.cs
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.csproj.CoreCompileInputs.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-3.54832969.Up2Date
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\refint\Workiy-360.EntityFramework.dll
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.genruntimeconfig.cache
+D:\new\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\ref\Workiy-360.EntityFramework.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.deps.json
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.runtimeconfig.json
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.Models.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\bin\Debug\net6.0\Workiy-360.Models.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.csproj.AssemblyReference.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.AssemblyInfoInputs.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.AssemblyInfo.cs
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.csproj.CoreCompileInputs.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-3.54832969.Up2Date
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\refint\Workiy-360.EntityFramework.dll
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.pdb
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\Workiy-360.EntityFramework.genruntimeconfig.cache
+D:\new\put\workiy-360-asp.net - Copy\Workiy-360.EntityFramework\obj\Debug\net6.0\ref\Workiy-360.EntityFramework.dll

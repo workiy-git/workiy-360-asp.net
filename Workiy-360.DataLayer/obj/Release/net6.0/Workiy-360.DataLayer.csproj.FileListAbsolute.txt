@@ -1,0 +1,17 @@
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Release/net6.0/Workiy-360.DataLayer.deps.json
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Release/net6.0/Workiy-360.DataLayer.dll
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Release/net6.0/Workiy-360.DataLayer.pdb
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Release/net6.0/Workiy-360.EntityFramework.dll
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Release/net6.0/Workiy-360.Models.dll
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Release/net6.0/Workiy-360.EntityFramework.pdb
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/bin/Release/net6.0/Workiy-360.Models.pdb
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Release/net6.0/Workiy-360.DataLayer.csproj.AssemblyReference.cache
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Release/net6.0/Workiy-360.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Release/net6.0/Workiy-360.DataLayer.AssemblyInfoInputs.cache
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Release/net6.0/Workiy-360.DataLayer.AssemblyInfo.cs
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Release/net6.0/Workiy-360.DataLayer.csproj.CoreCompileInputs.cache
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Release/net6.0/Workiy-360.DataLayer.csproj.CopyComplete
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Release/net6.0/Workiy-360.DataLayer.dll
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Release/net6.0/refint/Workiy-360.DataLayer.dll
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Release/net6.0/Workiy-360.DataLayer.pdb
+/var/www/workiy-360-asp.net/Workiy-360.DataLayer/obj/Release/net6.0/ref/Workiy-360.DataLayer.dll
