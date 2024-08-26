@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Workiy360.IdentityServer.props" />
+</Project>

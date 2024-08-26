@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System;
 using System.Threading.Tasks;
 using Workiy_360.Api.BusinessLogic.Interfaces;
 using Workiy_360.EntityFramework;
@@ -28,13 +27,8 @@ namespace Workiy_360.Api.Controllers
 
             try
             {
-                var resultMessage = await _employeeService.AddOrUpdateAsync(employee, flag);
-                if (flag == 3)
-                {
-                    return BadRequest(resultMessage);
-                }
-
-                return Ok(resultMessage);
+                await _employeeService.AddOrUpdateAsync(employee, flag);
+                return Ok("Employee information processed successfully.");
             }
             catch (Exception ex)
             {
@@ -57,12 +51,7 @@ namespace Workiy_360.Api.Controllers
                 {
                     return NotFound("Employee not found.");
                 }
-
-                var welcomeMessage = string.IsNullOrWhiteSpace(employee.FirstName)
-                    ? "Welcome to Workiy Preonboarding."
-                    : $"Welcome {employee.FirstName} {employee.LastName}";
-
-                return Ok(new { Message = welcomeMessage, Employee = employee });
+                return Ok(employee);
             }
             catch (Exception ex)
             {

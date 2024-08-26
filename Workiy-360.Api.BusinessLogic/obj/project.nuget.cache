@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AICmQ51q/X0=",
+  "dgSpecHash": "qinZ4I0tvI4=",
   "success": true,
-  "projectFilePath": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",

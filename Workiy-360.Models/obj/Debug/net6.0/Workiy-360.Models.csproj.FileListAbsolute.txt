@@ -32,25 +32,14 @@ D:\new\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.d
 D:\new\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\refint\Workiy-360.Models.dll
 D:\new\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.pdb
 D:\new\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\ref\Workiy-360.Models.dll
-D:\new\workiy-360-asp.net - Copy\Workiy-360.Models\bin\Debug\net6.0\Workiy-360.Models.deps.json
-D:\new\workiy-360-asp.net - Copy\Workiy-360.Models\bin\Debug\net6.0\Workiy-360.Models.dll
-D:\new\workiy-360-asp.net - Copy\Workiy-360.Models\bin\Debug\net6.0\Workiy-360.Models.pdb
-D:\new\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.GeneratedMSBuildEditorConfig.editorconfig
-D:\new\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.AssemblyInfoInputs.cache
-D:\new\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.AssemblyInfo.cs
-D:\new\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.csproj.CoreCompileInputs.cache
-D:\new\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.dll
-D:\new\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\refint\Workiy-360.Models.dll
-D:\new\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.pdb
-D:\new\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\ref\Workiy-360.Models.dll
-D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Models\bin\Debug\net6.0\Workiy-360.Models.deps.json
-D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Models\bin\Debug\net6.0\Workiy-360.Models.dll
-D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Models\bin\Debug\net6.0\Workiy-360.Models.pdb
-D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.GeneratedMSBuildEditorConfig.editorconfig
-D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.AssemblyInfoInputs.cache
-D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.AssemblyInfo.cs
-D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.csproj.CoreCompileInputs.cache
-D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.dll
-D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\refint\Workiy-360.Models.dll
-D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.pdb
-D:\new\put\workiy-360-asp.net - Copy\Workiy-360.Models\obj\Debug\net6.0\ref\Workiy-360.Models.dll
+C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Models\bin\Debug\net6.0\Workiy-360.Models.deps.json
+C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Models\bin\Debug\net6.0\Workiy-360.Models.dll
+C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Models\bin\Debug\net6.0\Workiy-360.Models.pdb
+C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.AssemblyInfoInputs.cache
+C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.AssemblyInfo.cs
+C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.dll
+C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\refint\Workiy-360.Models.dll
+C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\Workiy-360.Models.pdb
+C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Models\obj\Debug\net6.0\ref\Workiy-360.Models.dll
