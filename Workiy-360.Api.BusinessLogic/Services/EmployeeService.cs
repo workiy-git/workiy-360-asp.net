@@ -46,6 +46,9 @@ namespace Workiy_360.Api.BusinessLogic.Services
                     employee.CreatedBy = $"{employee.FirstName} {employee.LastName}";
                     employee.CreatedDate = currentTime;
 
+                    // Set creation details for nested forms
+                    SetCreationDetailsForNestedForms(employee, employee.CreatedBy, currentTime);
+
                     await _employeeRepository.AddAsync(employee);
                     return "Employee information added successfully.";
                 }
@@ -65,6 +68,9 @@ namespace Workiy_360.Api.BusinessLogic.Services
                         employee.UpdatedBy = $"{employee.FirstName} {employee.LastName}";
                         employee.UpdatedDate = currentTime;
 
+                        // Set update details for nested forms
+                        SetUpdateDetailsForNestedForms(employee, employee.UpdatedBy, currentTime);
+
                         await _employeeRepository.UpdateAsync(employee);
                         return "Employee information updated successfully.";
                     }
@@ -74,6 +80,9 @@ namespace Workiy_360.Api.BusinessLogic.Services
                         employee.StatusInd = true;
                         employee.CreatedBy = $"{employee.FirstName} {employee.LastName}";
                         employee.CreatedDate = currentTime;
+
+                        // Set creation details for nested forms
+                        SetCreationDetailsForNestedForms(employee, employee.CreatedBy, currentTime);
 
                         await _employeeRepository.AddAsync(employee);
                         return "Employee information added successfully.";
@@ -88,8 +97,6 @@ namespace Workiy_360.Api.BusinessLogic.Services
                 return $"Internal server error: {ex.Message}";
             }
         }
-
-
 
         public async Task<EmployeeInformation> GetByPhoneNumberAsync(string phoneNumber)
         {
@@ -116,6 +123,92 @@ namespace Workiy_360.Api.BusinessLogic.Services
             }
 
             return string.Join("\n", results);
+        }
+
+        private void SetCreationDetailsForNestedForms(EmployeeInformation employee, string creatorName, DateTime currentTime)
+        {
+            if (employee.EmployeeContactDetails != null)
+            {
+                foreach (var contact in employee.EmployeeContactDetails)
+                {
+                    contact.StatusInd = true; // Set StatusInd for nested forms
+                    contact.CreatedBy = creatorName;
+                    contact.CreatedDate = currentTime;
+                }
+            }
+
+            if (employee.EmployeeEducationalDetails != null)
+            {
+                foreach (var education in employee.EmployeeEducationalDetails)
+                {
+                    education.StatusInd = true; // Set StatusInd for nested forms
+                    education.CreatedBy = creatorName;
+                    education.CreatedDate = currentTime;
+                }
+            }
+
+            if (employee.EmployeeExperienceDetails != null)
+            {
+                foreach (var experience in employee.EmployeeExperienceDetails)
+                {
+                    experience.StatusInd = true; // Set StatusInd for nested forms
+                    experience.CreatedBy = creatorName;
+                    experience.CreatedDate = currentTime;
+                }
+            }
+
+            if (employee.EmployeeNationalityDocuments != null)
+            {
+                foreach (var document in employee.EmployeeNationalityDocuments)
+                {
+                    document.StatusInd = true; // Set StatusInd for nested forms
+                    document.CreatedBy = creatorName;
+                    document.CreatedDate = currentTime;
+                }
+            }
+        }
+
+        private void SetUpdateDetailsForNestedForms(EmployeeInformation employee, string updaterName, DateTime currentTime)
+        {
+            if (employee.EmployeeContactDetails != null)
+            {
+                foreach (var contact in employee.EmployeeContactDetails)
+                {
+                    contact.StatusInd = true; // Ensure StatusInd is true on update
+                    contact.UpdatedBy = updaterName;
+                    contact.UpdatedDate = currentTime;
+                }
+            }
+
+            if (employee.EmployeeEducationalDetails != null)
+            {
+                foreach (var education in employee.EmployeeEducationalDetails)
+                {
+                    education.StatusInd = true; // Ensure StatusInd is true on update
+                    education.UpdatedBy = updaterName;
+                    education.UpdatedDate = currentTime;
+                }
+            }
+
+            if (employee.EmployeeExperienceDetails != null)
+            {
+                foreach (var experience in employee.EmployeeExperienceDetails)
+                {
+                    experience.StatusInd = true; // Ensure StatusInd is true on update
+                    experience.UpdatedBy = updaterName;
+                    experience.UpdatedDate = currentTime;
+                }
+            }
+
+            if (employee.EmployeeNationalityDocuments != null)
+            {
+                foreach (var document in employee.EmployeeNationalityDocuments)
+                {
+                    document.StatusInd = true; // Ensure StatusInd is true on update
+                    document.UpdatedBy = updaterName;
+                    document.UpdatedDate = currentTime;
+                }
+            }
         }
 
         private List<string> ValidateEmployeeInformation(EmployeeInformation employee, bool isUpdateOperation)
