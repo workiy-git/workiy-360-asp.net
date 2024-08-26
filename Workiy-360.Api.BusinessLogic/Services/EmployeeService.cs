@@ -136,7 +136,7 @@ namespace Workiy_360.Api.BusinessLogic.Services
                     if (string.IsNullOrWhiteSpace(address.Country))
                         errors.Add("Country is required.");
 
-                    if (address.Pincode <= 0 || address.Pincode.ToString().Length != 5)
+                    if (address.Pincode <= 0 || address.Pincode.ToString().Length != 6)
                         errors.Add("A valid 5-digit pincode is required.");
                 }
             }
