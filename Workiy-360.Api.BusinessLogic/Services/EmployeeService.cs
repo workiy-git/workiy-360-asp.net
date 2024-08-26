@@ -22,13 +22,6 @@ namespace Workiy_360.Api.BusinessLogic.Services
 
         public async Task<string> AddOrUpdateAsync(EmployeeInformation employee, int flag)
         {
-            var isUpdateOperation = flag == 2;
-            var validationErrors = ValidateEmployeeInformation(employee, isUpdateOperation);
-            if (validationErrors.Count > 0)
-            {
-                return $"Validation failed: {string.Join("; ", validationErrors)}";
-            }
-
             try
             {
                 if (flag == 3)
@@ -36,9 +29,15 @@ namespace Workiy_360.Api.BusinessLogic.Services
                     return "No operation for flag 3"; // No operation
                 }
 
+                DateTime currentTime = DateTime.UtcNow;
+
                 if (flag == 1)
                 {
                     // Handle add operation
+                    employee.StatusInd = true;
+                    employee.CreatedBy = $"{employee.FirstName} {employee.LastName}";
+                    employee.CreatedDate = currentTime;
+
                     await _employeeRepository.AddAsync(employee);
                     return "Employee information added successfully.";
                 }
@@ -49,12 +48,19 @@ namespace Workiy_360.Api.BusinessLogic.Services
                     if (existingEmployee != null)
                     {
                         employee.EmployeeId = existingEmployee.EmployeeId; // Use existing employee ID
+                        employee.UpdatedBy = $"{employee.FirstName} {employee.LastName}";
+                        employee.UpdatedDate = currentTime;
+
                         await _employeeRepository.UpdateAsync(employee);
                         return "Employee information updated successfully.";
                     }
                     else
                     {
                         // Add as a new record if phone number does not exist
+                        employee.StatusInd = true;
+                        employee.CreatedBy = $"{employee.FirstName} {employee.LastName}";
+                        employee.CreatedDate = currentTime;
+
                         await _employeeRepository.AddAsync(employee);
                         return "Employee information added successfully.";
                     }
@@ -68,6 +74,8 @@ namespace Workiy_360.Api.BusinessLogic.Services
                 return $"Internal server error: {ex.Message}";
             }
         }
+
+
 
         public async Task<EmployeeInformation> GetByPhoneNumberAsync(string phoneNumber)
         {
@@ -136,7 +144,7 @@ namespace Workiy_360.Api.BusinessLogic.Services
                     if (string.IsNullOrWhiteSpace(address.Country))
                         errors.Add("Country is required.");
 
-                    if (address.Pincode <= 0 || address.Pincode.ToString().Length != 5)
+                    if (address.Pincode <= 0 || address.Pincode.ToString().Length != 6)
                         errors.Add("A valid 5-digit pincode is required.");
                 }
             }
