@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|solutionrelative:workiy-360.api.businesslogic\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|d:\\new\\put\\workiy-360-asp.net - copy\\workiy-360.api.businesslogic\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|solutionrelative:workiy-360.api.businesslogic\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|d:\\new\\put\\workiy-360-asp.net - copy\\workiy-360.api\\controllers\\employeeinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\controllers\\employeeinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|d:\\new\\put\\workiy-360-asp.net - copy\\workiy-360.datalayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|solutionrelative:workiy-360.datalayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|d:\\new\\put\\workiy-360-asp.net - copy\\workiy-360.api.businesslogic\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|solutionrelative:workiy-360.api.businesslogic\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|d:\\new\\put\\workiy-360-asp.net - copy\\workiy-360.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +102,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeInfoController.cs",
               "DocumentMoniker": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
               "RelativeDocumentMoniker": "Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
@@ -120,14 +120,14 @@
               "RelativeDocumentMoniker": "Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs",
               "ToolTip": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs",
               "RelativeToolTip": "Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs",
-              "ViewState": "AQIAAO0AAABAAAAAAIAswPYAAAAAAAAA",
+              "ViewState": "AQIAAEgAAAAAamZmZmYawFoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T14:24:19.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs",
@@ -135,7 +135,8 @@
               "RelativeToolTip": "Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T14:26:31.583Z"
+              "WhenOpened": "2024-08-12T14:26:31.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -163,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
@@ -175,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "D:\\new\\put\\workiy-360-asp.net - Copy\\Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",

@@ -24,6 +24,7 @@ namespace Workiy_360.Api.BusinessLogic.Services
         {
             var isUpdateOperation = flag == 2;
             var validationErrors = ValidateEmployeeInformation(employee, isUpdateOperation);
+
             if (validationErrors.Count > 0)
             {
                 return $"Validation failed: {string.Join("; ", validationErrors)}";
@@ -36,9 +37,15 @@ namespace Workiy_360.Api.BusinessLogic.Services
                     return "No operation for flag 3"; // No operation
                 }
 
+                DateTime currentTime = DateTime.UtcNow;
+
                 if (flag == 1)
                 {
                     // Handle add operation
+                    employee.StatusInd = true;
+                    employee.CreatedBy = $"{employee.FirstName} {employee.LastName}";
+                    employee.CreatedDate = currentTime;
+
                     await _employeeRepository.AddAsync(employee);
                     return "Employee information added successfully.";
                 }
@@ -48,13 +55,26 @@ namespace Workiy_360.Api.BusinessLogic.Services
                     var existingEmployee = await _employeeRepository.GetByPhoneNumberAsync(employee.MobileNo);
                     if (existingEmployee != null)
                     {
+                        // Update existing employee record
                         employee.EmployeeId = existingEmployee.EmployeeId; // Use existing employee ID
+                        employee.StatusInd = existingEmployee.StatusInd; // Preserve existing status
+                        employee.CreatedBy = existingEmployee.CreatedBy; // Preserve original creator
+                        employee.CreatedDate = existingEmployee.CreatedDate; // Preserve original creation date
+
+                        // Set the updated by and updated date fields
+                        employee.UpdatedBy = $"{employee.FirstName} {employee.LastName}";
+                        employee.UpdatedDate = currentTime;
+
                         await _employeeRepository.UpdateAsync(employee);
                         return "Employee information updated successfully.";
                     }
                     else
                     {
                         // Add as a new record if phone number does not exist
+                        employee.StatusInd = true;
+                        employee.CreatedBy = $"{employee.FirstName} {employee.LastName}";
+                        employee.CreatedDate = currentTime;
+
                         await _employeeRepository.AddAsync(employee);
                         return "Employee information added successfully.";
                     }
@@ -68,6 +88,8 @@ namespace Workiy_360.Api.BusinessLogic.Services
                 return $"Internal server error: {ex.Message}";
             }
         }
+
+
 
         public async Task<EmployeeInformation> GetByPhoneNumberAsync(string phoneNumber)
         {
