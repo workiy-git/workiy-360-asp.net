@@ -1,113 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy360.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|solutionrelative:workiy360.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.api\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.datalayer\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.datalayer\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|solutionrelative:workiy-360.datalayer\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.datalayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.datalayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|solutionrelative:workiy-360.datalayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.api.businesslogic\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.api.businesslogic\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|solutionrelative:workiy-360.api.businesslogic\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.api.businesslogic\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.api.businesslogic\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|solutionrelative:workiy-360.api.businesslogic\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.api\\controllers\\employeeinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.api\\controllers\\employeeinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\controllers\\employeeinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy360.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.api\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy360.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|solutionrelative:workiy360.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy360.identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy360.identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|solutionrelative:workiy360.identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy360.identityserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy360.identityserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|solutionrelative:workiy360.identityserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy360.identityserver\\workiy360.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy360.identityserver\\workiy360.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F0AFC453-22C4-40A8-83F9-A5FCE711F3D2}|Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj|solutionrelative:workiy360.identityserver\\workiy360.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.api\\workiy-360.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.api\\workiy-360.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\workiy-360.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{84DD5151-8CD8-4909-AD56-35696CD69BFC}|Workiy-360.Api\\Workiy-360.Api.csproj|solutionrelative:workiy-360.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.models\\models\\employeeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.models\\models\\employeeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|solutionrelative:workiy-360.datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D7BE694-1E61-4D61-B739-AC3DED3A49EE}|Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.entityframework\\context\\workiy360dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D7BE694-1E61-4D61-B739-AC3DED3A49EE}|Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.entityframework\\context\\workiy360dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D7BE694-1E61-4D61-B739-AC3DED3A49EE}|Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj|solutionrelative:workiy-360.entityframework\\context\\workiy360dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.models\\models\\employeecontactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.models\\models\\employeecontactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeecontactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.api.businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.api.businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14DD988E-4B14-4AC1-871C-1C99E7D64D3B}|Workiy-360.Api.BusinessLogic\\Workiy-360.Api.BusinessLogic.csproj|solutionrelative:workiy-360.api.businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.datalayer\\workiy-360.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.datalayer\\workiy-360.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{47D9738D-0988-404D-9392-A8EF3C2D7B47}|Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj|solutionrelative:workiy-360.datalayer\\workiy-360.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.models\\models\\employeeaddressdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.models\\models\\employeeaddressdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeeaddressdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.models\\models\\employeenationalitydocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.models\\models\\employeenationalitydocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeenationalitydocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.models\\models\\employeeexperiencedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.models\\models\\employeeexperiencedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeeexperiencedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.models\\models\\employeeeducationaldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.models\\models\\employeeeducationaldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\models\\employeeeducationaldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51CD1D9B-14AE-4DAD-9E46-FD611AD60A88}|Workiy-360.Models\\Workiy-360.Models.csproj|solutionrelative:workiy-360.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D7BE694-1E61-4D61-B739-AC3DED3A49EE}|Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net\\workiy-360.entityframework\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D7BE694-1E61-4D61-B739-AC3DED3A49EE}|Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj|c:\\users\\dell\\pictures\\workiy-360-asp.net-identity server\\workiy-360.entityframework\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D7BE694-1E61-4D61-B739-AC3DED3A49EE}|Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj|solutionrelative:workiy-360.entityframework\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -118,39 +114,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsetting.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\appsetting.json",
-              "RelativeDocumentMoniker": "Workiy-360.Api\\appsetting.json",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\appsetting.json",
-              "RelativeToolTip": "Workiy-360.Api\\appsetting.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-22T05:57:27.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\Program.cs",
               "RelativeDocumentMoniker": "Workiy-360.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\Program.cs",
               "RelativeToolTip": "Workiy-360.Api\\Program.cs",
-              "ViewState": "AQIAACgAAABAp5mZmRkWwFEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T13:44:11.895Z"
+              "WhenOpened": "2024-08-12T13:44:11.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy360.IdentityServer\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy360.IdentityServer\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Workiy360.IdentityServer\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy360.IdentityServer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy360.IdentityServer\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Workiy360.IdentityServer\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAABEAAACA/f////8PwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,23 +143,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs",
               "RelativeToolTip": "Workiy-360.Api.BusinessLogic\\Services\\EmployeeService.cs",
-              "ViewState": "AQIAABEAAABgZmZmZmY7wCMAAAAAAAAA",
+              "ViewState": "AQIAAKIAAAAAAAAAAAA5wLYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T14:24:19.471Z"
+              "WhenOpened": "2024-08-12T14:24:19.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Workiy-360.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\Properties\\launchSettings.json",
               "RelativeToolTip": "Workiy-360.Api\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAgAAAAgMzMzMzMrwBMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -182,24 +168,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy360.IdentityServer\\Program.cs",
-              "RelativeDocumentMoniker": "Workiy360.IdentityServer\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy360.IdentityServer\\Program.cs",
-              "RelativeToolTip": "Workiy360.IdentityServer\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T19:29:52.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy360.IdentityServer\\Config.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy360.IdentityServer\\Config.cs",
               "RelativeDocumentMoniker": "Workiy360.IdentityServer\\Config.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy360.IdentityServer\\Config.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy360.IdentityServer\\Config.cs",
               "RelativeToolTip": "Workiy360.IdentityServer\\Config.cs",
               "ViewState": "AQIAACkAAADAZmZmZmYgwDkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,59 +180,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
               "RelativeToolTip": "Workiy-360.DataLayer\\Interfaces\\IEmployeeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T14:28:44.809Z"
+              "WhenOpened": "2024-08-12T14:28:44.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAkwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:27:42.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
+              "RelativeDocumentMoniker": "Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
+              "RelativeToolTip": "Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:22:32.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
-              "RelativeToolTip": "Workiy-360.DataLayer\\Repositories\\EmployeeRepository.cs",
-              "ViewState": "AQIAAB8AAAAAQGZmZmbWvzQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T14:27:42.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmployeeInfoController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
-              "RelativeDocumentMoniker": "Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
-              "RelativeToolTip": "Workiy-360.Api\\Controllers\\EmployeeInfoController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAmwD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T14:22:32.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs",
               "RelativeToolTip": "Workiy-360.Api.BusinessLogic\\Interfaces\\IEmployeeService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T14:26:31.583Z"
+              "WhenOpened": "2024-08-12T14:26:31.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
+              "Title": "appsetting.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\appsetting.json",
+              "RelativeDocumentMoniker": "Workiy-360.Api\\appsetting.json",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\appsetting.json",
+              "RelativeToolTip": "Workiy-360.Api\\appsetting.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T05:57:27.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy360.IdentityServer\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy360.IdentityServer\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Workiy360.IdentityServer\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy360.IdentityServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy360.IdentityServer\\Properties\\launchSettings.json",
               "RelativeToolTip": "Workiy360.IdentityServer\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -267,11 +256,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Workiy360.IdentityServer.csproj",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj",
               "RelativeDocumentMoniker": "Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj",
               "RelativeToolTip": "Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -279,11 +268,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Workiy-360.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\Workiy-360.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\Workiy-360.Api.csproj",
               "RelativeDocumentMoniker": "Workiy-360.Api\\Workiy-360.Api.csproj",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\Workiy-360.Api.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\Workiy-360.Api.csproj",
               "RelativeToolTip": "Workiy-360.Api\\Workiy-360.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -291,11 +280,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Workiy-360.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\appsettings.json",
               "RelativeToolTip": "Workiy-360.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -303,11 +292,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "EmployeeInformation.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeInformation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeInformation.cs",
               "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeInformation.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeInformation.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeInformation.cs",
               "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeInformation.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAA9wDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -315,11 +304,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.DataLayer\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.DataLayer\\Class1.cs",
               "RelativeDocumentMoniker": "Workiy-360.DataLayer\\Class1.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.DataLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.DataLayer\\Class1.cs",
               "RelativeToolTip": "Workiy-360.DataLayer\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -327,11 +316,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Workiy360DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.EntityFramework\\Context\\Workiy360DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.EntityFramework\\Context\\Workiy360DbContext.cs",
               "RelativeDocumentMoniker": "Workiy-360.EntityFramework\\Context\\Workiy360DbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.EntityFramework\\Context\\Workiy360DbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.EntityFramework\\Context\\Workiy360DbContext.cs",
               "RelativeToolTip": "Workiy-360.EntityFramework\\Context\\Workiy360DbContext.cs",
               "ViewState": "AQIAABgAAAAAk5mZmZk3wC4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -339,11 +328,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "EmployeeContactDetail.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeContactDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeContactDetail.cs",
               "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeContactDetail.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeContactDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeContactDetail.cs",
               "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeContactDetail.cs",
               "ViewState": "AQIAAAoAAACALjMzMzMLwBMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -351,11 +340,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api.BusinessLogic\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api.BusinessLogic\\Class1.cs",
               "RelativeDocumentMoniker": "Workiy-360.Api.BusinessLogic\\Class1.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api.BusinessLogic\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api.BusinessLogic\\Class1.cs",
               "RelativeToolTip": "Workiy-360.Api.BusinessLogic\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -363,11 +352,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "Workiy-360.DataLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
               "RelativeDocumentMoniker": "Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
               "RelativeToolTip": "Workiy-360.DataLayer\\Workiy-360.DataLayer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -375,11 +364,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "EmployeeAddressDetail.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeAddressDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeAddressDetail.cs",
               "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeAddressDetail.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeAddressDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeAddressDetail.cs",
               "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeAddressDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -387,11 +376,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "EmployeeNationalityDocument.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeNationalityDocument.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeNationalityDocument.cs",
               "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeNationalityDocument.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeNationalityDocument.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeNationalityDocument.cs",
               "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeNationalityDocument.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -399,11 +388,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "EmployeeExperienceDetail.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeExperienceDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeExperienceDetail.cs",
               "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeExperienceDetail.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeExperienceDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeExperienceDetail.cs",
               "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeExperienceDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -411,11 +400,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "EmployeeEducationalDetail.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeEducationalDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeEducationalDetail.cs",
               "RelativeDocumentMoniker": "Workiy-360.Models\\Models\\EmployeeEducationalDetail.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Models\\EmployeeEducationalDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Models\\EmployeeEducationalDetail.cs",
               "RelativeToolTip": "Workiy-360.Models\\Models\\EmployeeEducationalDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -423,11 +412,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Class1.cs",
               "RelativeDocumentMoniker": "Workiy-360.Models\\Class1.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Class1.cs",
               "RelativeToolTip": "Workiy-360.Models\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -435,11 +424,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.EntityFramework\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.EntityFramework\\Class1.cs",
               "RelativeDocumentMoniker": "Workiy-360.EntityFramework\\Class1.cs",
-              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.EntityFramework\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.EntityFramework\\Class1.cs",
               "RelativeToolTip": "Workiy-360.EntityFramework\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

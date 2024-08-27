@@ -74,3 +74,22 @@ C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Api.BusinessLogic\obj\Debug
 C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\refint\Workiy-360.Api.BusinessLogic.dll
 C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\Workiy-360.Api.BusinessLogic.pdb
 C:\Users\DELL\Pictures\workiy-360-asp.net\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\ref\Workiy-360.Api.BusinessLogic.dll
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\bin\Debug\net6.0\Workiy-360.Api.BusinessLogic.deps.json
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\bin\Debug\net6.0\Workiy-360.Api.BusinessLogic.dll
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\bin\Debug\net6.0\Workiy-360.Api.BusinessLogic.pdb
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\bin\Debug\net6.0\Workiy-360.DataLayer.dll
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\bin\Debug\net6.0\Workiy-360.EntityFramework.dll
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\bin\Debug\net6.0\Workiy-360.Models.dll
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\bin\Debug\net6.0\Workiy-360.DataLayer.pdb
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\bin\Debug\net6.0\Workiy-360.EntityFramework.pdb
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\bin\Debug\net6.0\Workiy-360.Models.pdb
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\Workiy-360.Api.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\Workiy-360.Api.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\Workiy-360.Api.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\Workiy-360.Api.BusinessLogic.AssemblyInfo.cs
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\Workiy-360.Api.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\Workiy-3.D06D82F4.Up2Date
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\Workiy-360.Api.BusinessLogic.dll
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\refint\Workiy-360.Api.BusinessLogic.dll
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\Workiy-360.Api.BusinessLogic.pdb
+C:\Users\DELL\Pictures\workiy-360-asp.net-identity server\Workiy-360.Api.BusinessLogic\obj\Debug\net6.0\ref\Workiy-360.Api.BusinessLogic.dll

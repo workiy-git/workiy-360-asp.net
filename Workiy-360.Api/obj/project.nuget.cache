@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eeQYx4klcW4=",
+  "dgSpecHash": "Bf7Q6BD0g78=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Api\\Workiy-360.Api.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Api\\Workiy-360.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

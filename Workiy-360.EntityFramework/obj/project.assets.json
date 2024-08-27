@@ -804,11 +804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj",
       "projectName": "Workiy-360.EntityFramework",
-      "projectPath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj",
+      "projectPath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.EntityFramework\\Workiy-360.EntityFramework.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.EntityFramework\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.EntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -830,8 +830,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Workiy-360.Models.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net\\Workiy-360.Models\\Workiy-360.Models.csproj"
+            "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Workiy-360.Models.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy-360.Models\\Workiy-360.Models.csproj"
             }
           }
         }

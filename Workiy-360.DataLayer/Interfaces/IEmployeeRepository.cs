@@ -7,7 +7,8 @@ namespace Workiy360.DataLayer.Interfaces
     public interface IEmployeeRepository
     {
         Task AddAsync(EmployeeInformation employee);
-        Task AddOrUpdateAsync(EmployeeInformation employee);
+        Task UpdateAsync(EmployeeInformation employee); // Add this method
         Task<EmployeeInformation> GetByPhoneNumberAsync(string phoneNumber);
     }
+
 }

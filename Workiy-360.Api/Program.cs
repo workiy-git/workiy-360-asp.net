@@ -4,19 +4,23 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Authorization;
 using Workiy_360.EntityFramework.Context;
-using Workiy_360.Api.BusinessLogic.Interfaces; // Ensure this matches your IEmployeeService namespace
-using Workiy_360.Api.BusinessLogic; // Ensure this matches your EmployeeService namespace
-using Workiy360.DataLayer.Interfaces; // Ensure this matches your IEmployeeRepository namespace
-using Workiy360.DataLayer; // Ensure this matches your EmployeeRepository namespace
+using Workiy_360.Api.BusinessLogic.Interfaces;
+using Workiy_360.Api.BusinessLogic.Services;
+using Workiy360.DataLayer.Interfaces;
+using Workiy_360.DataLayer.Repositories;
+using Workiy_360.DataLayer.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllers();
 builder.Services.AddDbContext<Workiy360DbContext>(options =>
-    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"), new MySqlServerVersion(new Version(8, 0, 25))));
+    options.UseMySql(
+        builder.Configuration.GetConnectionString("DefaultConnection"),
+        new MySqlServerVersion(new Version(8, 0, 25))
+    )
+);
 
 // Configure Swagger
 builder.Services.AddSwaggerGen(c =>
