@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aUk/G0hRMSQ=",
+  "dgSpecHash": "SKm3OAV0sAA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server\\Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Pictures\\workiy-360-asp.net-identity server-27-09-2024\\Workiy360.IdentityServer\\Workiy360.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\duende.identityserver\\6.0.3\\duende.identityserver.6.0.3.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\duende.identityserver.storage\\6.0.3\\duende.identityserver.storage.6.0.3.nupkg.sha512",
